@@ -1,0 +1,16 @@
+{
+    "authors": [],
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    },
+    "description": "zetacomponents/.svn Component",
+    "homepage": "https =>//github.com/zetacomponents",
+    "license": "apache2",
+    "name": "zetacomponents/.svn",
+    "require": {
+        "zetacomponents/base": "1.8"
+    },
+    "type": "library"
+}

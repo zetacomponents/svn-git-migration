@@ -1,0 +1,32 @@
+{
+    "authors": [
+        {
+            "name": "Sebastian Bergmann"
+        },
+        {
+            "name": "Kore Nordmann"
+        },
+        {
+            "name": "Derick Rethans"
+        },
+        {
+            "name": "Tobias Schlitt"
+        },
+        {
+            "name": "Alexandru Stanoi"
+        },
+        {
+            "name": "James Pic"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    },
+    "description": "This component provides a request parser that extracts request data from e-mail messages.",
+    "homepage": "https =>//github.com/zetacomponents",
+    "license": "apache2",
+    "name": "zetacomponents/mvc-mail-tiein",
+    "type": "library"
+}

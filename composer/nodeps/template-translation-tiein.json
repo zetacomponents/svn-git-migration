@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "Sebastian Bergmann"
+        },
+        {
+            "name": "Kore Nordmann"
+        },
+        {
+            "name": "Derick Rethans"
+        },
+        {
+            "name": "Tobias Schlitt"
+        },
+        {
+            "name": "Alexandru Stanoi"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    },
+    "description": "Provides functionality to use translations inside templates.",
+    "homepage": "https =>//github.com/zetacomponents",
+    "license": "apache2",
+    "name": "zetacomponents/template-translation-tiein",
+    "type": "library"
+}

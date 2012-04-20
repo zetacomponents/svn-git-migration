@@ -1,0 +1,47 @@
+{
+    "authors": [
+        {
+            "name": "Sergey Alexeev"
+        },
+        {
+            "name": "Sebastian Bergmann"
+        },
+        {
+            "name": "Jan Borsodi"
+        },
+        {
+            "name": "Raymond Bosman"
+        },
+        {
+            "name": "Frederik Holljen"
+        },
+        {
+            "name": "Kore Nordmann"
+        },
+        {
+            "name": "Derick Rethans"
+        },
+        {
+            "name": "Vadym Savchuk"
+        },
+        {
+            "name": "Tobias Schlitt"
+        },
+        {
+            "name": "Alexandru Stanoi"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    },
+    "description": "A component that reads XML translation definitions (the Qt Linguist format), supports caching of translation contexts and presents you with a class to apply translations to strings. A filter system allows you to transform translation definitions for special use.",
+    "homepage": "https =>//github.com/zetacomponents",
+    "license": "apache2",
+    "name": "zetacomponents/translation",
+    "require": {
+        "zetacomponents/base": "1.8"
+    },
+    "type": "library"
+}
