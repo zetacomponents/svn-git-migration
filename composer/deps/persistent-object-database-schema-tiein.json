@@ -42,9 +42,9 @@
     "name": "zetacomponents/persistent-object-database-schema-tiein",
     "require": {
         "zetacomponents/base": "1.8",
-        "zetacomponents/consoletools": "1.3",
-        "zetacomponents/databaseschema": "1.2",
-        "zetacomponents/persistentobject": "1.3"
+        "zetacomponents/console-tools": "1.3",
+        "zetacomponents/database-schema": "1.2",
+        "zetacomponents/persistent-object": "1.3"
     },
     "type": "library"
 }

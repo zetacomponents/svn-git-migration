@@ -43,7 +43,7 @@
     "require": {
         "zetacomponents/base": "1.8",
         "zetacomponents/database": "1.2",
-        "zetacomponents/eventlog": "1.0.3"
+        "zetacomponents/event-log": "1.0.3"
     },
     "type": "library"
 }

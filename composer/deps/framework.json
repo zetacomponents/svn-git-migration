@@ -30,9 +30,9 @@
     "name": "zetacomponents/framework",
     "require": {
         "zetacomponents/base": "1.8",
-        "zetacomponents/mvcmailtiein": "1.0",
-        "zetacomponents/mvctemplatetiein": "1.0",
-        "zetacomponents/mvctools": "1.0"
+        "zetacomponents/mvc-mail-tiein": "1.0",
+        "zetacomponents/mvc-template-tiein": "1.0",
+        "zetacomponents/mvc-tools": "1.0"
     },
     "type": "library"
 }

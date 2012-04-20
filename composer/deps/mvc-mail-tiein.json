@@ -31,7 +31,7 @@
     "require": {
         "zetacomponents/base": "1.8",
         "zetacomponents/mail": "1.7",
-        "zetacomponents/mvctools": "1.0"
+        "zetacomponents/mvc-tools": "1.0"
     },
     "type": "library"
 }

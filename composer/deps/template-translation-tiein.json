@@ -27,7 +27,7 @@
     "name": "zetacomponents/template-translation-tiein",
     "require": {
         "zetacomponents/base": "1.8",
-        "zetacomponents/consoletools": "1.5",
+        "zetacomponents/console-tools": "1.5",
         "zetacomponents/template": "1.4",
         "zetacomponents/translation": "1.3"
     },

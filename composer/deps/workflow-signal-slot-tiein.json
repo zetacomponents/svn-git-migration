@@ -42,7 +42,7 @@
     "name": "zetacomponents/workflow-signal-slot-tiein",
     "require": {
         "zetacomponents/base": "1.8",
-        "zetacomponents/signalslot": "1.1",
+        "zetacomponents/signal-slot": "1.1",
         "zetacomponents/workflow": "1.4"
     },
     "type": "library"

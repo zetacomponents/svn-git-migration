@@ -46,7 +46,7 @@ foreach (scandir($argv[1]) AS $name) {
     if (file_exists($deps)) {
         foreach (file($deps) as $depsLine) {
             list($component, $version) = array_map('trim', explode(":", $depsLine));
-            $data['require']['zetacomponents/' . strtolower($component)] = $version;
+            $data['require']['zetacomponents/' . dashify(lcfirst($component))] = $version;
         }
     }
 

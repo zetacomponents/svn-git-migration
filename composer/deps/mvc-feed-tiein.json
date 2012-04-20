@@ -31,7 +31,7 @@
     "require": {
         "zetacomponents/base": "1.8",
         "zetacomponents/feed": "1.2.1",
-        "zetacomponents/mvctools": "1.1"
+        "zetacomponents/mvc-tools": "1.1"
     },
     "type": "library"
 }
